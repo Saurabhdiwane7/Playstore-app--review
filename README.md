@@ -89,7 +89,7 @@ closer is the reviewer’s opinion to the opinion of the general public, and low
 
 
 
-## Insights 
+## ♦ Insights 
 
 1 - Most popular app in the Play Store based on the number of reviews: Facebook 
 
